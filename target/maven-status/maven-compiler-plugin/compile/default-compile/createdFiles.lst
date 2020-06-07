@@ -1,0 +1,9 @@
+org\kurolek\newSpringContext\entity\Unit.class
+org\kurolek\newSpringContext\interfaces\ITool.class
+org\kurolek\newSpringContext\configs\AppConfig.class
+org\kurolek\newSpringContext\interfaces\IPerson.class
+org\kurolek\newSpringContext\entity\Peasant.class
+org\kurolek\newSpringContext\entity\Warrior.class
+org\kurolek\newSpringContext\entity\Axe.class
+org\kurolek\newSpringContext\Main.class
+org\kurolek\newSpringContext\entity\Plow.class
